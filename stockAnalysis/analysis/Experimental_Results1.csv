@@ -1,0 +1,3 @@
+,Method,MAPE,RMSE
+0,Simple RNN Model Train,0.008,0.0066
+0,Simple RNN Model Test,4.4195,0.489

@@ -1,0 +1,7 @@
+,Method,MAPE,RMSE
+0,Simple RNN Model Train,0.008,0.0066
+1,Simple RNN Model Test,4.4195,0.489
+0,Single Hidden Layer LSTM Train,0.0008,0.0152
+0,Single Hidden Layer LSTM Test,1.2429,0.1446
+0,Two Hidden Layer LSTM Train,0.0005,0.01
+0,Two Hidden Layer LSTM Test,0.8983,0.1102
